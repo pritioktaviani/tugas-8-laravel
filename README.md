@@ -1,2 +1,2 @@
-# tugas-8-laravel
-pemogrsaman internet lanjut
+# laravelkedua
+pemograman internet lanjut
